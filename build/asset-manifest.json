@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactAPIApp/static/css/main.fc5c2c69.css",
+    "main.js": "/reactAPIApp/static/js/main.48afb527.js",
+    "index.html": "/reactAPIApp/index.html",
+    "main.fc5c2c69.css.map": "/reactAPIApp/static/css/main.fc5c2c69.css.map",
+    "main.48afb527.js.map": "/reactAPIApp/static/js/main.48afb527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.48afb527.js"
+  ]
+}

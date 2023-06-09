@@ -30,7 +30,7 @@ export default function TextSimilarity() {
       },
       {
         headers: {
-          "X-Api-Key": process.env.APIKEY
+          "X-Api-Key": "XdIf0bIP8m+jkSetpFmEKQ==H23p0Ex2GcVLhArG"
         }
       }
     );

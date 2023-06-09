@@ -21,7 +21,7 @@ export default function Sentiment() {
       `https://api.api-ninjas.com/v1/sentiment?text=${inputText}`,
       {
         headers: {
-          "X-Api-Key": process.env.APIKEY
+          "X-Api-Key": "XdIf0bIP8m+jkSetpFmEKQ==H23p0Ex2GcVLhArG"
         }
       }
     );
